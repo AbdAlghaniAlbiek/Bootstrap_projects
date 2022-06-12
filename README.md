@@ -8,10 +8,10 @@ It's just home page that reprsent what is `Bondi` commercial trade mark
 You can see the full course [here](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyvm7f--dc6XqkpfDcen_vQ).
 
 ### screenshot:
-[bondi_image](https://github.com/AbdAlghaniAlbiek/Bootstrap_projects/blob/main/snapshots/bondi.png)
+![bondi_image](https://github.com/AbdAlghaniAlbiek/Bootstrap_projects/blob/main/snapshots/bondi.png)
 
 ** The Book
 It's just home page that reprsent what is `Net Ninja - The Book` commercial trade mark 
 
 ### snapshot:
-[The Book](https://github.com/AbdAlghaniAlbiek/Bootstrap_projects/blob/main/snapshots/the_book.png)
+![The Book](https://github.com/AbdAlghaniAlbiek/Bootstrap_projects/blob/main/snapshots/the_book.png)
